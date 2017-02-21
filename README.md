@@ -5,17 +5,17 @@ Link to recording on YouTube
 
 The goal of the tutorial is to provide Jupyter developers (especially the day-to-day team) with a solid overview of the current state of Jupyter project management tools and resources.
 
-Meeting Logistics
+## Meeting Logistics
 
 Date and time: Friday, February 24, 10:00 am -12:00 pm Pacific Time
 Meeting link: https://bluejeans.com/702657302
 
 Shortened link to this repo: http://bit.ly/jupyterpjmtools
 
-JupyterHub Tutorial
+## JupyterHub Tutorial
 
 
 
-Resources
+## Resources
 
-Detailed Agenda and Outline
+## Detailed Agenda and Outline
