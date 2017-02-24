@@ -7,16 +7,21 @@ The goal of the tutorial is to provide Jupyter developers (especially the day-to
 
 ## Meeting Logistics
 
-Date and time: Friday, February 24, 10:00 am -12:00 pm Pacific Time
+Date and time: Friday, February 24, 9:00 am -11:00 pm Pacific Time
 
 Meeting link: https://bluejeans.com/702657302
 
 Shortened link to this repo: http://bit.ly/jupyterpjmtools
 
 ## JupyterHub Tutorial
-
+- [15 min] Overview & the State of Jupyter PjM tools (Jamie)
+- [25 min] Issue Labeling & Metrics (Brian & Jason)
+- [25 min] GitHub Projects (Jamie & Grant)
+- [25 min] MeeSeeks Box (Matthias) 
+- [20 min] Overall Discussion / Q & A
 
 
 ## Resources
+https://github.com/jupyter/project-mgt
 
-## Detailed Agenda and Outline
+
