@@ -22,6 +22,7 @@ Shortened link to this repo: http://bit.ly/jupyterpjmtools
 
 
 ## Resources
-https://github.com/jupyter/project-mgt
+[Project Management Repo](https://github.com/jupyter/project-mgt)  
+[Tell us what's worked for you](https://github.com/jupyter/project-mgt/issues/44)
 
 
