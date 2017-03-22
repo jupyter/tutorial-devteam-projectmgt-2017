@@ -1,7 +1,7 @@
 # tutorial-devteam-projectmgt-2017
 Resources for the project management tools dev team tutorial on 2017-02-24
 
-[Link to recording on YouTube](https://youtu.be/aHPk3R2Q6q0)
+[Link to the recording on YouTube](https://youtu.be/aHPk3R2Q6q0)
 
 The goal of the tutorial is to provide Jupyter developers (especially the day-to-day team) with a solid overview of the current state of Jupyter project management tools and resources.
 
