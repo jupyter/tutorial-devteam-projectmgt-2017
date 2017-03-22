@@ -13,7 +13,7 @@ Meeting link: https://bluejeans.com/702657302
 
 Shortened link to this repo: http://bit.ly/jupyterpjmtools
 
-## JupyterHub Tutorial
+## Project Management Tools Tutorial
 - [15 min] Overview & the State of Jupyter PjM tools (Jamie)
 - [25 min] Issue Labeling & Metrics (Brian & Jason)
 - [25 min] GitHub Projects (Jamie & Grant)
